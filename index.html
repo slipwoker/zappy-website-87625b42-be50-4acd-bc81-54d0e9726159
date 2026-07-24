@@ -780,13 +780,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "87625b42-be50-4acd-bc81-54d0e9726159";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "87625b42-be50-4acd-bc81-54d0e9726159";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -1663,7 +1663,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
   </div>
 </section>
 
-<section data-band-index="4" class="index-cta-section" data-layout-spec="בית-cta" dir="rtl">
+<section data-band-index="4" class="index-cta-section" data-layout-spec="בית-cta" dir="rtl" id="index-cta-section">
   <!-- Decorative lotus ornament -->
   <div class="cta-lotus-ornament" aria-hidden="true">
     <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-icon-type="svg">
@@ -1681,18 +1681,18 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       נשמח להעניק לכם ליווי אישי, חם ומקצועי לאורך כל הדרך.
     </p>
 
-    <div class="cta-phone-block">
-      <span class="cta-phone-label">התקשרו עכשיו:</span>
+    <div class="cta-phone-block" style>
+      <span class="cta-phone-label">התקשרו עכשיו: 054-667-8911</span>
       
     </div>
 
-    <a href="/contact" class="cta-primary-btn btn-primary">
+    <p><a href="/contact" class="cta-primary-btn btn-primary" style="color: rgb(58, 45, 43) !important;" data-element-type="button" data-element-id="btn-1784913001280-o5vts9bv5" data-native-element="true">
       <span>צרו קשר</span>
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <path d="M15 19L8 12L15 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
     </a>
-  </div>
+  </p></div>
 
   <!-- Soft blush gradient wash background -->
   <div class="cta-blush-wash" aria-hidden="true"></div>
