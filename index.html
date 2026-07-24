@@ -780,13 +780,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "87625b42-be50-4acd-bc81-54d0e9726159";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "87625b42-be50-4acd-bc81-54d0e9726159";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -1577,69 +1577,63 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
   </div>
 </section>
 
-<section data-band-index="3" class="index-gallery-section" data-layout-spec="בית-gallery">
+<section data-band-index="3" class="index-gallery-section" data-layout-spec="בית-gallery" id="index-gallery-section">
   <div class="index-gallery-section__container">
     <!-- Header -->
     <div class="index-gallery-section__header">
       <h2 class="index-gallery-section__title">הגלריה שלנו</h2>
-      <p class="index-gallery-section__subtitle">רגעים מתוקים, עיצובים מרהיבים — הצצה לעולם החגיגות שאנחנו יוצרים עבורכם</p>
+      <p class="index-gallery-section__subtitle" style="color: rgb(255, 248, 242) !important;">רגעים מתוקים, עיצובים מרהיבים — הצצה לעולם החגיגות שאנחנו יוצרים עבורכם</p>
     </div>
 
     <!-- Gallery Grid -->
-    <div class="index-gallery-section__grid">
+    <div class="index-gallery-section__grid" style="display: grid; --zappy-grid-cols: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr));" data-zappy-explicit-columns="true">
       
       <!-- Item 1 - Wide -->
-      <div class="index-gallery-section__item index-gallery-section__item--wide">
+      <div class="index-gallery-section__item index-gallery-section__item--wide" data-grid-item-index="0">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-1" data-context="A lavish bat mitzvah sweets table with pink macarons, rose-gold cake pops, and cascading blush florals on a mirrored display, soft candlelight glow" width="600" height="400" src="/assets/site-image-index-gallery-image-1.webp" alt="שולחן מתוקים לבת מצווה בעיצוב ורוד ואלגנטי" loading="lazy" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-1" data-context="A lavish bat mitzvah sweets table with pink macarons, rose-gold cake pops, and cascading blush florals on a mirrored display, soft candlelight glow" width="600" height="400" src="/assets/site-image-index-gallery-image-1.webp" alt="שולחן מתוקים לבת מצווה בעיצוב ורוד ואלגנטי" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-x0wu1mqdh" decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
-          <span class="index-gallery-section__tag">בת מצווה</span>
-        </div>
+          <p class="zappy-editable"><span class="index-gallery-section__tag">בת מצווה</span>
+        </p></div>
       </div>
 
       <!-- Item 2 - Square -->
-      <div class="index-gallery-section__item index-gallery-section__item--square">
+      <div class="index-gallery-section__item index-gallery-section__item--square" data-grid-item-index="1">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-2" data-context="A beautifully braided challah loaf on a rustic wooden board, dusted with flour, surrounded by scattered pink rose petals and wheat stalks, warm golden light" width="400" height="400" src="/assets/site-image-index-gallery-image-2.webp" alt="חלה קלועה בעבודת יד על רקע פרחים ורודים" loading="lazy" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-2" data-context="A beautifully braided challah loaf on a rustic wooden board, dusted with flour, surrounded by scattered pink rose petals and wheat stalks, warm golden light" width="400" height="400" src="/assets/site-image-index-gallery-image-2.webp" alt="חלה קלועה בעבודת יד על רקע פרחים ורודים" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-1lbqsv8vo" decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
-          <span class="index-gallery-section__tag">הפרשת חלה</span>
-        </div>
+          <p class="zappy-editable"><span class="index-gallery-section__tag">הפרשת חלה</span>
+        </p></div>
       </div>
 
       <!-- Item 3 - Square -->
-      <div class="index-gallery-section__item index-gallery-section__item--square">
+      <div class="index-gallery-section__item index-gallery-section__item--square" data-grid-item-index="2">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-3" data-context="Close-up of an elegant bridal table setting with antique gold charger plates, blush linen napkins folded into lotus shapes, and tall crystal candle holders" width="400" height="400" src="/assets/site-image-index-gallery-image-3.webp" alt="עריכת שולחן חתונה עם נגיעות זהב עתיק ופשתן ורוד" loading="lazy" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-3" data-context="Close-up of an elegant bridal table setting with antique gold charger plates, blush linen napkins folded into lotus shapes, and tall crystal candle holders" width="400" height="400" src="/assets/site-image-index-gallery-image-3.webp" alt="עריכת שולחן חתונה עם נגיעות זהב עתיק ופשתן ורוד" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-c3q3kuikj" decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
-          <span class="index-gallery-section__tag">חתונה</span>
-        </div>
+          <p class="zappy-editable"><span class="index-gallery-section__tag">חתונה</span>
+        </p></div>
       </div>
 
       <!-- Item 4 - Wide -->
-      <div class="index-gallery-section__item index-gallery-section__item--wide">
-        <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-4" data-context="A candlelit dessert display at twilight, featuring a three-tier white cake with sugar flowers, surrounded by tea lights in rose-gold holders and scattered blush petals" width="600" height="400" src="/assets/site-image-index-gallery-image-4.webp" alt="תצוגת קינוחים לאור נרות עם עוגת קומות ופרחי סוכר" loading="lazy" decoding="async" fetchpriority="low" />
-          <div class="index-gallery-section__overlay"></div>
-          <span class="index-gallery-section__tag">קינוחים</span>
-        </div>
-      </div>
+      
 
       <!-- Item 5 - Square -->
-      <div class="index-gallery-section__item index-gallery-section__item--square">
+      <div class="index-gallery-section__item index-gallery-section__item--square" data-grid-item-index="3">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-5" data-context="An elegant family event styling with long banquet table, blush runners, gold-rimmed glassware, and a lush floral centerpiece of peonies and eucalyptus" width="400" height="400" src="/assets/site-image-index-gallery-image-5.webp" alt="עיצוב אירוע משפחתי עם מרכז פרחים שופע וכלי זכוכית מוזהבים" loading="lazy" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-5" data-context="An elegant family event styling with long banquet table, blush runners, gold-rimmed glassware, and a lush floral centerpiece of peonies and eucalyptus" width="400" height="400" src="/assets/site-image-index-gallery-image-5.webp" alt="עיצוב אירוע משפחתי עם מרכז פרחים שופע וכלי זכוכית מוזהבים" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-4pc4zgpwv" decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
-          <span class="index-gallery-section__tag">אירוע משפחתי</span>
-        </div>
+          <p class="zappy-editable"><span class="index-gallery-section__tag">אירוע משפחתי</span>
+        </p></div>
       </div>
 
       <!-- Item 6 - Wide -->
-      <div class="index-gallery-section__item index-gallery-section__item--wide">
+      <div class="index-gallery-section__item index-gallery-section__item--wide" data-grid-item-index="4">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-6" data-context="Overhead flat lay of pink floral arrangements, lotus-inspired watercolor invitation suite, scattered vintage stamps, and a soft silk ribbon on cream paper" width="600" height="400" src="/assets/site-image-index-gallery-image-6.webp" alt="הזמנות מעוצבות בסגנון לוטוס עם פרחים ורודים וסרט משי" loading="lazy" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-6" data-context="Overhead flat lay of pink floral arrangements, lotus-inspired watercolor invitation suite, scattered vintage stamps, and a soft silk ribbon on cream paper" width="600" height="400" src="/assets/site-image-index-gallery-image-6.webp" alt="הזמנות מעוצבות בסגנון לוטוס עם פרחים ורודים וסרט משי" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-zyh3cetmn" decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
-          <span class="index-gallery-section__tag">הזמנות מעוצבות</span>
-        </div>
+          <p class="zappy-editable"><span class="index-gallery-section__tag">הזמנות מעוצבות</span>
+        </p></div>
       </div>
 
     </div>
@@ -1681,7 +1675,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       נשמח להעניק לכם ליווי אישי, חם ומקצועי לאורך כל הדרך.
     </p>
 
-    <div class="cta-phone-block" style>
+    <div class="cta-phone-block">
       <span class="cta-phone-label">התקשרו עכשיו: 054-667-8911</span>
       
     </div>
