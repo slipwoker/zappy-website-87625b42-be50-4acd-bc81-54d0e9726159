@@ -2,13 +2,13 @@
 
 An online ordering website for Jewish celebrations and events, specializing in bat mitzvahs, weddings, challah separations (hafrashat challah), and all types of events. The site features a shopping cart system for placing orders, product images displayed in the cart area, and a phone number for direct contact. The brand aesthetic is soft and elegant — pink and white tones (not neon/bright pink), conveying warmth and celebration.
 
-Source: https://-87625b42.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הזמנות לכל אירוע שתרצו בעיצוב אישי — 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
-URL: https://-87625b42.zappy5.app
+URL: https://example.com
 Description: ברוכים הבאים ללוטם דיזיינס – אתר הזמנות מעוצבות לאירועים יהודיים. מחפשים הזמנות לבת מצווה, חתונה או הפרשת חלה? אצלנו תמצאו עיצובים רכים ואלגנטיים בגווני ורוד ולבן, עם עגלת קניות נוחה להזמנה מהירה. בחרתם בי להכין לכם את ההזמנה ואין לכם יותר דאגה – צרו קשר עוד היום והפכו כל חגיגה למושלמת.
 
 הזמנות לכל אירוע שתרצו בעיצוב אישי — 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
@@ -537,7 +537,7 @@ Description: ברוכים הבאים ללוטם דיזיינס – אתר הזמ
 
 ## תכננו את החגיגה המושלמת בהזמנה אחת — 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
-URL: https://-87625b42.zappy5.app/celebrations
+URL: https://example.com/celebrations
 Description: דף החגיגות שלנו מחכה לכם עם מגוון הזמנות לאירועים דתיים ומשפחתיים – מבת מצווה ועד חתונה. כל עיצוב משדר חמימות ויוקרה עדינה, מותאם אישית לצרכים שלכם. גללו, בחרו את הסגנון שאתם אוהבים, והוסיפו לעגלה בקלות. ההזמנה שלכם בדרך להיות יצירת אמנות בלתי נשכחת – אל תפספסו את ההזדמנות לרגש את האורחים.
 
 תכננו את החגיגה המושלמת בהזמנה אחת — 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
@@ -1024,7 +1024,7 @@ Description: דף החגיגות שלנו מחכה לכם עם מגוון הזמ
 
 ## הצצה לעולם של עיצובים אישיים מרהיבים — 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
-URL: https://-87625b42.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: בגלריה שלנו תגלו השראה אמיתית – תמונות של הזמנות מעוצבות לאירועים יהודיים, כולן בגווני ורוד רך ולבן אלגנטי. כל פריט מספר סיפור של חגיגה מוקפדת, עם עגלת קניות שמציגה תמונות מוצר ברורות. התרשמו מהעבודות הקודמות ודמיינו את האירוע שלכם מתעורר לחיים. עיצוב אישי ולא יקר מחכה לכם – כנסו עכשיו להתאהב.
 
 הצצה לעולם של עיצובים אישיים מרהיבים — 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
@@ -1452,7 +1452,7 @@ Description: בגלריה שלנו תגלו השראה אמיתית – תמונ
 
 ## דברו איתי ונתפור יחד את ההזמנה שלכם — 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
-URL: https://-87625b42.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לכם רעיון לאירוע ואתם רוצים הזמנות מעוצבות שידברו את השפה שלכם? צרו קשר עם לוטם דיזיינס בטלפון ישיר או דרך האתר, ונתחיל לעבוד על עיצובים אישיים בדיוק כמו שחלמתם. אין יותר דאגה – אני מלווה אתכם משלב הרעיון ועד למוצר המוגמר, במחיר שלא יכביד עליכם. בואו נהפוך את החגיגה שלכם לבלתי נשכחת.
 
 דברו איתי ונתפור יחד את ההזמנה שלכם — 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
@@ -1895,7 +1895,7 @@ Description: יש לכם רעיון לאירוע ואתם רוצים הזמנו�
 
 ## מוצרים
 
-URL: https://-87625b42.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
 מוצרים - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
@@ -2261,7 +2261,7 @@ Description: המוצרים שלנו - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲
 
 ## פרטי המוצר
 
-URL: https://-87625b42.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
 פרטי המוצר - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
@@ -2471,7 +2471,7 @@ Description: פרטי המוצר - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰
 
 ## מוצרים
 
-URL: https://-87625b42.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
 מוצרים - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
@@ -2705,7 +2705,7 @@ Description: מוצרים - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷�
 
 ## מדיניות פרטיות
 
-URL: https://-87625b42.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2981,7 +2981,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-87625b42.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3266,7 +3266,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-87625b42.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3570,7 +3570,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו
 
-URL: https://-87625b42.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷 - תודה שפניתם אלינו
 
 תודה שפניתם אלינו

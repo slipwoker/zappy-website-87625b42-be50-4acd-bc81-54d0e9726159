@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://-87625b42.zappy5.app
+https://example.com
 ברוכים הבאים ללוטם דיזיינס – אתר הזמנות מעוצבות לאירועים יהודיים. מחפשים הזמנות לבת מצווה, חתונה או הפרשת חלה? אצלנו תמצאו עיצובים רכים ואלגנטיים בגווני ורוד ולבן, עם עגלת קניות נוחה להזמנה מהירה. בחרתם בי להכין לכם את ההזמנה ואין לכם יותר דאגה – צרו קשר עוד היום והפכו כל חגיגה למושלמת.
 
 ### חגיגות
-https://-87625b42.zappy5.app/celebrations
+https://example.com/celebrations
 דף החגיגות שלנו מחכה לכם עם מגוון הזמנות לאירועים דתיים ומשפחתיים – מבת מצווה ועד חתונה. כל עיצוב משדר חמימות ויוקרה עדינה, מותאם אישית לצרכים שלכם. גללו, בחרו את הסגנון שאתם אוהבים, והוסיפו לעגלה בקלות. ההזמנה שלכם בדרך להיות יצירת אמנות בלתי נשכחת – אל תפספסו את ההזדמנות לרגש את האורחים.
 
 ### גלריה
-https://-87625b42.zappy5.app/gallery
+https://example.com/gallery
 בגלריה שלנו תגלו השראה אמיתית – תמונות של הזמנות מעוצבות לאירועים יהודיים, כולן בגווני ורוד רך ולבן אלגנטי. כל פריט מספר סיפור של חגיגה מוקפדת, עם עגלת קניות שמציגה תמונות מוצר ברורות. התרשמו מהעבודות הקודמות ודמיינו את האירוע שלכם מתעורר לחיים. עיצוב אישי ולא יקר מחכה לכם – כנסו עכשיו להתאהב.
 
 ### צור קשר
-https://-87625b42.zappy5.app/contact
+https://example.com/contact
 יש לכם רעיון לאירוע ואתם רוצים הזמנות מעוצבות שידברו את השפה שלכם? צרו קשר עם לוטם דיזיינס בטלפון ישיר או דרך האתר, ונתחיל לעבוד על עיצובים אישיים בדיוק כמו שחלמתם. אין יותר דאגה – אני מלווה אתכם משלב הרעיון ועד למוצר המוגמר, במחיר שלא יכביד עליכם. בואו נהפוך את החגיגה שלכם לבלתי נשכחת.
 
 ### Products
-https://-87625b42.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
 ### Product Detail
-https://-87625b42.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
 ### Category
-https://-87625b42.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
 ### תודה שפניתם אלינו
-https://-87625b42.zappy5.app/thank-you
+https://example.com/thank-you
 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷 - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-87625b42.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-87625b42.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-87625b42.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -80,8 +80,8 @@ Event Catering & Celebration Orders
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-87625b42.zappy5.app/sitemap.xml
-- Robots: https://-87625b42.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-87625b42.zappy5.app/llms-full.txt
-- Products (JSON): https://-87625b42.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-87625b42.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
