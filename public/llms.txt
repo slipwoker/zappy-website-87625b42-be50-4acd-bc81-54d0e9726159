@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://example.com
+https://lotus-designs.zappy5.app
 ברוכים הבאים ללוטם דיזיינס – אתר הזמנות מעוצבות לאירועים יהודיים. מחפשים הזמנות לבת מצווה, חתונה או הפרשת חלה? אצלנו תמצאו עיצובים רכים ואלגנטיים בגווני ורוד ולבן, עם עגלת קניות נוחה להזמנה מהירה. בחרתם בי להכין לכם את ההזמנה ואין לכם יותר דאגה – צרו קשר עוד היום והפכו כל חגיגה למושלמת.
 
 ### חגיגות
-https://example.com/celebrations
+https://lotus-designs.zappy5.app/celebrations
 דף החגיגות שלנו מחכה לכם עם מגוון הזמנות לאירועים דתיים ומשפחתיים – מבת מצווה ועד חתונה. כל עיצוב משדר חמימות ויוקרה עדינה, מותאם אישית לצרכים שלכם. גללו, בחרו את הסגנון שאתם אוהבים, והוסיפו לעגלה בקלות. ההזמנה שלכם בדרך להיות יצירת אמנות בלתי נשכחת – אל תפספסו את ההזדמנות לרגש את האורחים.
 
 ### גלריה
-https://example.com/gallery
+https://lotus-designs.zappy5.app/gallery
 בגלריה שלנו תגלו השראה אמיתית – תמונות של הזמנות מעוצבות לאירועים יהודיים, כולן בגווני ורוד רך ולבן אלגנטי. כל פריט מספר סיפור של חגיגה מוקפדת, עם עגלת קניות שמציגה תמונות מוצר ברורות. התרשמו מהעבודות הקודמות ודמיינו את האירוע שלכם מתעורר לחיים. עיצוב אישי ולא יקר מחכה לכם – כנסו עכשיו להתאהב.
 
 ### צור קשר
-https://example.com/contact
+https://lotus-designs.zappy5.app/contact
 יש לכם רעיון לאירוע ואתם רוצים הזמנות מעוצבות שידברו את השפה שלכם? צרו קשר עם לוטם דיזיינס בטלפון ישיר או דרך האתר, ונתחיל לעבוד על עיצובים אישיים בדיוק כמו שחלמתם. אין יותר דאגה – אני מלווה אתכם משלב הרעיון ועד למוצר המוגמר, במחיר שלא יכביד עליכם. בואו נהפוך את החגיגה שלכם לבלתי נשכחת.
 
 ### Products
-https://example.com/products
+https://lotus-designs.zappy5.app/products
 המוצרים שלנו - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
 ### Product Detail
-https://example.com/product/:slug
+https://lotus-designs.zappy5.app/product/:slug
 פרטי המוצר - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
 ### Category
-https://example.com/category/:slug
+https://lotus-designs.zappy5.app/category/:slug
 מוצרים - 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷
 
 ### תודה שפניתם אלינו
-https://example.com/thank-you
+https://lotus-designs.zappy5.app/thank-you
 🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷 - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://lotus-designs.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://lotus-designs.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://lotus-designs.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -80,8 +80,8 @@ Event Catering & Celebration Orders
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://lotus-designs.zappy5.app/sitemap.xml
+- Robots: https://lotus-designs.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://lotus-designs.zappy5.app/llms-full.txt
+- Products (JSON): https://lotus-designs.zappy5.app/products.json
+- Products (Google Merchant RSS): https://lotus-designs.zappy5.app/product-feed.xml
