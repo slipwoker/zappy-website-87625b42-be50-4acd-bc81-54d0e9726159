@@ -1,8 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-27T07:14:12.416Z",
+  "generated_at": "2026-07-27T07:33:32.025Z",
   "base_url": "https://lotus-designs.zappy5.app",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "f401ba38-f205-42e8-9909-cf0f477e0ba8",
+      "slug": "kl-hhzmnvt-7zrrx4",
+      "name": "כל ההזמנות",
+      "name_translations": {},
+      "description": "<p>הזמנות (המחירים שונים אנא שימו לב)</p><p>הזמנה-סדר הדלקת נרות: 25₪</p><p>הזמנה-יום הולדת לליה: 35₪</p><p>הזמנה-פסטיבל אוכל: 35₪</p><p>הזמנה-חתונה עדן ונועם: 40₪</p><p>הזמנה-חתונה מאי ויותם: 50₪</p><p>הזמנה-בת מצווה ללין עם תמונה: 60₪</p><p>הזמנה- בקשה אישית בוואטסאפ (המחיר של הבקשה האישית עולה בנוסף למחיר 5₪) ואני אחליט את המחיר </p>",
+      "short_description": "יום הולדת לליה",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://lotus-designs.zappy5.app/assets/product-1785136586439-r931kh.webp",
+        "https://lotus-designs.zappy5.app/assets/product-1785136593309-zjwmep.webp",
+        "https://lotus-designs.zappy5.app/assets/product-1785136600350-hk5e7j.webp",
+        "https://lotus-designs.zappy5.app/assets/product-1785136616574-ml1bxq.webp",
+        "https://lotus-designs.zappy5.app/assets/product-1785136623479-atebh.webp",
+        "https://lotus-designs.zappy5.app/assets/product-1785136629339-yktrpq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://lotus-designs.zappy5.app/product/kl-hhzmnvt-7zrrx4",
+      "categories": [],
+      "updated_at": "2026-07-27T07:32:41.217Z"
+    }
+  ]
 }
