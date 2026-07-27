@@ -779,7 +779,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "87625b42-be50-4acd-bc81-54d0e9726159";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "87625b42-be50-4acd-bc81-54d0e9726159";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -1339,12 +1339,10 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 
     <section class="featured-products-section" id="featured-products" data-zappy-dynamic="true">
       <div class="container">
-        <h2 class="section-title">מוצרים מומלצים</h2>
-        <div class="product-grid featured-grid" id="zappy-featured-products">
-          <div class="loading-products">טוען מוצרים...</div>
-        </div>
+        <h2 class="section-title" style>כל המוצרים</h2>
+        <div class="product-grid featured-grid" id="zappy-featured-products"><div class="loading-products"></div></div>
         <div class="view-all-products">
-          <a href="/products" class="btn btn-primary">צפה בכל המוצרים →</a>
+          <a href="/products" class="btn btn-primary" data-element-type="button" data-element-id="btn-1785136252049-bx3nt2mx7" data-native-element="true" style="outline: medium;">צפה בכל המוצרים →</a>
         </div>
       </div>
     </section>
@@ -1590,7 +1588,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <!-- Item 1 - Wide -->
       <div class="index-gallery-section__item index-gallery-section__item--wide" data-grid-item-index="0">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-1" data-context="A lavish bat mitzvah sweets table with pink macarons, rose-gold cake pops, and cascading blush florals on a mirrored display, soft candlelight glow" width="600" height="400" src="/assets/site-image-index-gallery-image-1.webp" alt="שולחן מתוקים לבת מצווה בעיצוב ורוד ואלגנטי" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-x0wu1mqdh" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-1" data-context="A lavish bat mitzvah sweets table with pink macarons, rose-gold cake pops, and cascading blush florals on a mirrored display, soft candlelight glow" width="600" height="400" src="/assets/site-image-index-gallery-image-1.webp" alt="שולחן מתוקים לבת מצווה בעיצוב ורוד ואלגנטי" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-x0wu1mqdh" style decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
           <p class="zappy-editable"><span class="index-gallery-section__tag">בת מצווה</span>
         </p></div>
@@ -1599,7 +1597,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <!-- Item 2 - Square -->
       <div class="index-gallery-section__item index-gallery-section__item--square" data-grid-item-index="1">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-2" data-context="A beautifully braided challah loaf on a rustic wooden board, dusted with flour, surrounded by scattered pink rose petals and wheat stalks, warm golden light" width="400" height="400" src="/assets/site-image-index-gallery-image-2.webp" alt="חלה קלועה בעבודת יד על רקע פרחים ורודים" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-1lbqsv8vo" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-2" data-context="A beautifully braided challah loaf on a rustic wooden board, dusted with flour, surrounded by scattered pink rose petals and wheat stalks, warm golden light" width="400" height="400" src="/assets/site-image-index-gallery-image-2.webp" alt="חלה קלועה בעבודת יד על רקע פרחים ורודים" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-1lbqsv8vo" style decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
           <p class="zappy-editable"><span class="index-gallery-section__tag">הפרשת חלה</span>
         </p></div>
@@ -1608,7 +1606,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <!-- Item 3 - Square -->
       <div class="index-gallery-section__item index-gallery-section__item--square" data-grid-item-index="2">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-3" data-context="Close-up of an elegant bridal table setting with antique gold charger plates, blush linen napkins folded into lotus shapes, and tall crystal candle holders" width="400" height="400" src="/assets/site-image-index-gallery-image-3.webp" alt="עריכת שולחן חתונה עם נגיעות זהב עתיק ופשתן ורוד" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-c3q3kuikj" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-3" data-context="Close-up of an elegant bridal table setting with antique gold charger plates, blush linen napkins folded into lotus shapes, and tall crystal candle holders" width="400" height="400" src="/assets/site-image-index-gallery-image-3.webp" alt="עריכת שולחן חתונה עם נגיעות זהב עתיק ופשתן ורוד" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-c3q3kuikj" style decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
           <p class="zappy-editable"><span class="index-gallery-section__tag">חתונה</span>
         </p></div>
@@ -1620,7 +1618,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <!-- Item 5 - Square -->
       <div class="index-gallery-section__item index-gallery-section__item--square" data-grid-item-index="3">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-5" data-context="An elegant family event styling with long banquet table, blush runners, gold-rimmed glassware, and a lush floral centerpiece of peonies and eucalyptus" width="400" height="400" src="/assets/site-image-index-gallery-image-5.webp" alt="עיצוב אירוע משפחתי עם מרכז פרחים שופע וכלי זכוכית מוזהבים" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-4pc4zgpwv" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-5" data-context="An elegant family event styling with long banquet table, blush runners, gold-rimmed glassware, and a lush floral centerpiece of peonies and eucalyptus" width="400" height="400" src="/assets/site-image-index-gallery-image-5.webp" alt="עיצוב אירוע משפחתי עם מרכז פרחים שופע וכלי זכוכית מוזהבים" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-4pc4zgpwv" style decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
           <p class="zappy-editable"><span class="index-gallery-section__tag">אירוע משפחתי</span>
         </p></div>
@@ -1629,7 +1627,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <!-- Item 6 - Wide -->
       <div class="index-gallery-section__item index-gallery-section__item--wide" data-grid-item-index="4">
         <div class="index-gallery-section__image-wrapper">
-          <img data-placeholder="index-gallery-image-6" data-context="Overhead flat lay of pink floral arrangements, lotus-inspired watercolor invitation suite, scattered vintage stamps, and a soft silk ribbon on cream paper" width="600" height="400" src="/assets/site-image-index-gallery-image-6.webp" alt="הזמנות מעוצבות בסגנון לוטוס עם פרחים ורודים וסרט משי" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-zyh3cetmn" decoding="async" fetchpriority="low" />
+          <img data-placeholder="index-gallery-image-6" data-context="Overhead flat lay of pink floral arrangements, lotus-inspired watercolor invitation suite, scattered vintage stamps, and a soft silk ribbon on cream paper" width="600" height="400" src="/assets/site-image-index-gallery-image-6.webp" alt="הזמנות מעוצבות בסגנון לוטוס עם פרחים ורודים וסרט משי" loading="lazy" data-element-type="image" data-element-id="img-1784913102002-zyh3cetmn" style decoding="async" fetchpriority="low" />
           <div class="index-gallery-section__overlay"></div>
           <p class="zappy-editable"><span class="index-gallery-section__tag">הזמנות מעוצבות</span>
         </p></div>
@@ -1669,13 +1667,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 
   <div class="cta-container">
     <h2 class="cta-headline">בואו נעצב יחד את האירוע שלכם</h2>
-    <p class="cta-subtext">
+    <p class="cta-subtext" style>
       לוטם דיזיינס מזמינה אתכם ליצור קשר ולהזמין עיצובים אישיים לבת מצווה, חתונות, הפרשות חלה ולכל חגיגה. 
       נשמח להעניק לכם ליווי אישי, חם ומקצועי לאורך כל הדרך.
     </p>
 
-    <div class="cta-phone-block">
-      <span class="cta-phone-label">צרו קשר בוואטסאפ עכשיו: 054-667-8911<br />(אין להתקשר ניתן לשלוח הודעה פרטית בוואטסאפ)</span>
+    <div class="cta-phone-block" style>
+      <span class="cta-phone-label" style>צרו קשר בוואטסאפ עכשיו: 054-667-8911<br />(אין להתקשר ניתן לשלוח הודעה פרטית בוואטסאפ)</span>
       
     </div>
 
@@ -1697,7 +1695,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     <div class="footer-top">
       <!-- Company Info -->
       <div class="footer-col footer-brand-col">
-        <img src="/assets/image-event-catering-celebration-ord-logo.webp" alt="🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷" class="logo" data-element-type="image" data-element-id="img-1784913236256-zzl3x9wea" data-zappy-footer-image="true" decoding="async" width="35" height="35" />
+        <img src="/assets/image-event-catering-celebration-ord-logo.webp" alt="🪷𝓛𝓸𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷𝓼🪷" class="logo" data-element-type="image" data-element-id="img-1784913236256-zzl3x9wea" data-zappy-footer-image="true" style decoding="async" width="35" height="35" />
         <p class="footer-tagline">הופכים כל אירוע לחוויה בלתי נשכחת עם עיצוב אישי, קייטרינג מוקפד ורגעים קסומים.</p>
       </div>
 
@@ -1715,7 +1713,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <!-- Contact Info -->
       <div class="footer-col footer-contact-col">
         <h4>צרו קשר</h4>
-        <ul class="footer-contact"><li>
+        <ul class="footer-contact" style><li>
             <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1784913236254-w8yqmo216" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
             <span class="contact-text"><a href="mailto:moran.abarbanel@gmail.com">moran.abarbanel@gmail.com</a></span>
           </li><li>
@@ -1727,15 +1725,15 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 
       <!-- Business Hours -->
       <div class="footer-col footer-hours-col">
-        <h4>שעות פעילות</h4>
-        <ul class="footer-hours"><li><a href="/"><span class="hours-day">יום א’</span> <span class="hours-time">סגור</span></a></li>
+        <h4 style>שעות פעילות</h4>
+        <ul class="footer-hours" style><li><a href="/"><span class="hours-day">יום א’</span> <span class="hours-time">סגור</span></a></li>
 <li><a href="/"><span class="hours-day">ימים ב’–ו’</span> <span class="hours-time">09:00–17:00</span></a></li>
 <li><a href="/"><span class="hours-day">שבת</span> <span class="hours-time">סגור</span></a></li></ul>
       </div>
 
       <!-- Social Media -->
       <div class="footer-col footer-social-col">
-        <h4>עקבו אחרינו בטיקטוק</h4>
+        <h4 style>עקבו אחרינו בטיקטוק</h4>
         <div class="footer-social">
           <a href="#" aria-label="Facebook" data-zappy-social-placeholder="true" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
           <a href="#" aria-label="Instagram" data-zappy-social-placeholder="true" style="display:none !important;"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1784913236254-j643uri0c" data-icon-type="fontawesome"></i></a>
